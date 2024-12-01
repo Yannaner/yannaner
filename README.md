@@ -14,5 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there, I'm Ian Fong 👋
 
-![Yannaner's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yannaner&theme=monokai&show_icons=true)
+Welcome to my GitHub! I'm an AI Engineer and Backend Developer with a passion for solving real-world problems through innovative technology. While most of my current work is private, I enjoy collaborating on open-source projects and would love to connect with others in the tech community. 
+
+## What I Do
+- AI/ML Research and Development
+- Backend Development (Java, Python, C++)
+- Data Analytics and Visualization
+- Hackathon Enthusiast
+- Project Leader and Mentor
+
+Feel free to explore my repositories, and don't hesitate to reach out if you'd like to connect or collaborate!
+
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ianfong](https://www.linkedin.com/in/ian-fong-412152318))
+Thanks for visiting! 😊
+
