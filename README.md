@@ -20,7 +20,7 @@ Welcome to my GitHub! I'm an AI Engineer and Backend Developer with a passion fo
 
 ## What I Do
 - AI/ML Research and Development
-- Backend Development (Java, Python, C++)
+- Backend Development
 - Data Analytics and Visualization
 - Entrepreneurship, Hackathon Enthusiast
 - Project Leader
@@ -28,7 +28,7 @@ Welcome to my GitHub! I'm an AI Engineer and Backend Developer with a passion fo
 Feel free to explore my repositories, and don't hesitate to reach out if you'd like to connect or collaborate!
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ianfong](https://www.linkedin.com/in/ian-fong-412152318))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ianfong](https://www.linkedin.com/in/ian-fong-412152318/))
 Thanks for visiting! 😊
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -37,5 +37,6 @@ Thanks for visiting! 😊
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
 
 
