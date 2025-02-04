@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I'm an AI Engineer and Backend Developer with a DRIVE for solving real-world problems using innovative technology. While most of my current work is private, I enjoy collaborating on open-source projects and would love to connect with others in the tech community. 
 
-## What I Do ✨✨✨
+## What I Do 
 - AI/ML Research and Development
 - Backend Development
 - Data Analytics and Visualization
@@ -15,4 +15,6 @@ Thank you for your visit & Have a fantastic day!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yannaner&layout=compact&size_weight=0.2&count_weight=0.6&hide=CSS&theme=midnight-purple&hide_progress=true)
 
+
+![My Skills](https://skillicons.dev/icons?i=java,js,python,react,flask,html,css,tailwindcss,fastapi,was,ts,ai,MySQL,github)
 
