@@ -13,7 +13,7 @@ Feel free to explore my repositories, and don't hesitate to reach out if you'd l
 
 Thank you for your visit & Have a fantastic day!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yannaner&layout=compact&size_weight=0.2&count_weight=0.6&hide=CSS&theme=midnight-purple&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yannaner&langs_count=6&layout=compact&size_weight=0.2&count_weight=0.6&hide=CSS&theme=midnight-purple&hide_progress=true)
 
 
 ![My Skills](https://skillicons.dev/icons?i=java,js,python,react,flask,html,css,tailwindcss,fastapi,aws,ts,ai,mysql,github)
