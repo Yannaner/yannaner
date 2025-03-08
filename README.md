@@ -22,9 +22,8 @@
   <a href="https://www.instagram.com/ianfyn_/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo"  />
   </a>
-    <a href="https://medium.com/@ianyfong" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
-  </a>
+
+
   <!-- Add other social media links as needed -->
 </div>
 
@@ -62,7 +61,7 @@
 
 ###
 
-<h3 align="left">Frameworks & Libraries</h3>
+<h3 align="left">Tech & Frameworks & Libraries</h3>
 
 ###
 
