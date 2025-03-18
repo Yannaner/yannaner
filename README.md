@@ -85,6 +85,13 @@
   <a href="https://https://tailwindcss.com/" target="_blank">
     <img src="https://img.shields.io/badge/tailwind%20css-06B6D4?logo=tailwind%20css&logoColor=white&style=for-the-badge" height="40" alt="tailwind logo"  />
   </a>
+   <img width="12" />
+  <a href="https://vite.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/vite-4590A1?logo=vite&logoColor=white&style=for-the-badge" height="40" alt="vite logo"  />
+  </a>
+  <a href="https://flask.palletsprojects.com/en/stable/" target="_blank">
+    <img src="https://img.shields.io/badge/vue.js-4590A1?logo=vuejs&logoColor=white&style=for-the-badge" height="40" alt="vite logo"  />
+  </a>
   <!-- Add or remove frameworks & libraries as per your experience -->
 </div>
 
@@ -107,6 +114,10 @@
   <img width="12" />
   <a href="https://cloud.google.com/gcp?utm_source=google&utm_medium=cpc&utm_campaign=na-US-all-en-dr-bkws-all-all-trial-e-dr-1710134&utm_content=text-ad-none-any-DEV_c-CRE_665735450627-ADGP_Hybrid+%7C+BKWS+-+EXA+%7C+Txt-Core-Google+Cloud-KWID_43700081237254438-kwd-6458750523&utm_term=KW_google+cloud-ST_google+cloud&gad_source=1&gclid=Cj0KCQiA8q--BhDiARIsAP9tKI2EZLW_8AZfDciMRLOjmFsyBTpjGNTH09kkfkBDvofJ84mncSXbPMcaArk5EALw_wcB&gclsrc=aw.ds&hl=en" target="_blank">
     <img src="https://img.shields.io/badge/googlecloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="40" alt="Google Cloud logo"  />
+  </a>
+  <img width="12" />
+  <a href="https://firebase.google.com/?gad_source=1&gclid=Cj0KCQjws-S-BhD2ARIsALssG0Y1O8e6-vkEVGu_xJoeLYg7ZN0z_ya5aZAxMOK5AdUjSGvt2MnsN6kaAhVtEALw_wcB&gclsrc=aw.ds" target="_blank">
+    <img src="https://img.shields.io/badge/Firebase-47A248?logo=firebase&logoColor=FFA611&style=for-the-badge" height="40" alt="MongoDB logo"  />
   </a>
   <!-- Add or remove backend tools as per your expertise -->
 </div>
