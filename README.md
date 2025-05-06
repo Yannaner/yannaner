@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">AI Engineer and Backend Developer</h4>
+<h4 align="center">Math @nyu</h4>
 
 ###
 
