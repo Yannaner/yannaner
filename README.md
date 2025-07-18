@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👨‍💻 All of my projects are available at <a href="http://web.stanford.edu/people/ianfong" target="_blank">http://web.stanford.edu/people/ianfong</a></p>
+<p align="left">Personal Protfolio at <a href="http://web.stanford.edu/people/ianfong" target="_blank">http://web.stanford.edu/people/ianfong</a></p>
 
 ###
 
