@@ -1,16 +1,14 @@
-<h2 align="center">Hi 👋, I'm Yannaner (Ian)</h2>
+<h2 align="center">hi my name is Ian</h2>
 
 ###
-
-<h4 align="center">math @nyu</h4>
+<h4 align="center">incoming intern @J.P. Morgan</h4>
+<h4 align="center">econ & math @nyu - CS is for my building spirit</h4>
 
 ###
 
 <p align="left">Personal Protfolio at <a href="http://web.stanford.edu/people/ianfong" target="_blank">http://web.stanford.edu/people/ianfong</a></p>
-
-###
-
-<h3 align="left">Connect with me:</h3>
+<p>i like to do very random things including what you are seeing right now</p>
+<h3 align="left">Links:</h3>
 
 ###
 
