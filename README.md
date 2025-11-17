@@ -8,20 +8,10 @@
 
 <p align="left">Personal Protfolio at <a href="http://web.stanford.edu/people/ianfong" target="_blank">http://web.stanford.edu/people/ianfong</a></p>
 <p>i like to do very random things including what you are seeing right now</p>
-<h3 align="left">Links:</h3>
-
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/ianyfong/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo"  />
   </a>
-
-  <a href="https://www.instagram.com/ianfyn_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo"  />
-  </a>
-
-
   <!-- Add other social media links as needed -->
 </div>
 
